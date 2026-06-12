@@ -1,0 +1,16 @@
+dataset/
+.venv/
+__pycache__/
+*.pyc
+
+# Large data files
+*.csv
+*.tsv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
